@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Sakshi
 
-Infomation Science and Engineering student
+### Infomation Science and Engineering student
 
 ![](https://komarev.com/ghpvc/?username=Sakshi-G-codes&label=Profile%20views&color=grey&style=flat)
 
